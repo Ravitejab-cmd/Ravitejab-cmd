@@ -25,3 +25,7 @@ Exploratory analysis of **27,075 Steam store games** — release trends, genre l
 - 💼 [LinkedIn](https://www.linkedin.com/in/ravi-teja-bonda)
 - 📧 bondaraviteja080@gmail.com
 - 📍 Hyderabad, Telangana, India
+
+## Beyond the data
+
+📷 I love photographing with my phone — always chasing good light.
