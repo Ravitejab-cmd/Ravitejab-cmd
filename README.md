@@ -12,7 +12,7 @@ Business Analytics postgraduate turning complex data into clear business decisio
 
 ## Featured Project
 
-### [Steam Games Data Analysis](./steam-games-data-analysis)
+### [Steam Games Data Analysis](https://github.com/Ravitejab-cmd/steam-games-data-analysis)
 
 Exploratory analysis of **27,075 Steam store games** — release trends, genre landscape, pricing, and what player reviews reveal about price, popularity, and quality.
 
